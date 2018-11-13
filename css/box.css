@@ -1,0 +1,30 @@
+.btnCont{
+  width: 50%:
+}
+
+.desocupado{
+  background-color: gray;
+  color: white;
+}
+
+.ocupado{
+  background-color: blue;
+  color: white;
+}
+
+h1,h2,h3{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+button{
+        font-family:Helvetica;
+        width:60px;
+        height:40px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #ffffff;
+        border-radius: 3px;
+        border: 2px;
+        margin-top: 2px;
+}
